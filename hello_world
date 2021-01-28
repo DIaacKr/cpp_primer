@@ -1,0 +1,7 @@
+#include <bits/stdc++.h>
+
+int main
+{
+  string tmp;
+  whlie(cin>>tmp)cout<<tmp<<endl;
+}
